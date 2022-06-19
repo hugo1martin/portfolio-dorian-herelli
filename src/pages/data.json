@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "url": "./mockup-carousel/alarme_penet.png",
+    "title": "TITRE",
+    "logo": "alarme_penet_logo.png",
+    "see_more": "https://www.alarmepenet.fr/",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 2,
+    "url": "./mockup-carousel/clim_convert.png",
+    "title": "TITRE",
+    "logo": "climconvert_logo.jpg",
+    "see_more": "https://www.climconvert.com/",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 3,
+    "url": "./mockup-carousel/fanfic.png",
+    "title": "TITRE",
+    "logo": "fanfic_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 4,
+    "url": "./mockup-carousel/rhumantik.png",
+    "title": "TITRE",
+    "logo": "rhumantik_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 5,
+    "url": "./mockup-carousel/vv.png",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  }
+]

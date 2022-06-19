@@ -1,0 +1,48 @@
+.modalBackground {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .modalContent {
+    width: 970px;
+    height: 540px;
+    border-radius: $border-radius;
+    background-color: $dark-grey;
+    color: $white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    padding: $grid-space-5;
+    padding-bottom: $grid-space-7;
+
+    .left {
+      .logo {
+        max-width: 400px;
+        max-height: 200px;
+        align-self: center;
+        margin-top: auto;
+      }
+    }
+
+    .right {
+      margin-left: $grid-space-6;
+
+      h1 {
+        margin-bottom: $grid-space-6;
+      }
+
+      a {
+        align-self: flex-end;
+        margin-top: auto;
+      }
+      button {
+        margin-top: $grid-space-1;
+      }
+    }
+  }
+}
