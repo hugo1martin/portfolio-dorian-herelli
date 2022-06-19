@@ -18,7 +18,6 @@ root.render(
       <Routes>
         <Route path="/" element={<Portfolio />} exact />
         <Route path="/aboutme" element={<AboutMe />} />
-        <Route path="/contact" element={<Contact />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>

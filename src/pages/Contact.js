@@ -33,6 +33,7 @@ class Contact extends React.Component {
       email: this.state.email,
       message: this.state.message,
     };
+    // Need backend or 3rd party to integrate email handling
     console.log(formData);
   };
   render() {

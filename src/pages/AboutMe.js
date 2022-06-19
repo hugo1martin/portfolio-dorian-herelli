@@ -16,7 +16,7 @@ const AboutMe = () => {
           l’illustration, le graphisme et l’intégration web.
         </span>
         <a
-          href="./media/MISSING-PDF.pdf"
+          href="./cv-dorian-herelli.pdf"
           target="_blank"
           className="button primary big"
         >

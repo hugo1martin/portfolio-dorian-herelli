@@ -12,9 +12,6 @@ const Navbar = () => {
         <NavLink to="/aboutme" exact>
           <span>À propos de moi</span>
         </NavLink>
-        <NavLink to="/contact" exact>
-          <span>Contact</span>
-        </NavLink>
       </div>
     </div>
   );
