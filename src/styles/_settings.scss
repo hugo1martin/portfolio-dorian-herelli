@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  padding: 1rem 1rem;
+  font-family: $primary-font;
+  background-color: $white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $primary-font;
+
+  &.primary {
+    color: $primary-color;
+  }
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: $black;
+  cursor: pointer;
+}
+
+a:visited {
+  color: $black;
+}
+
+li {
+  list-style-type: none;
+}
+
+label {
+  font-weight: 600;
+  margin-bottom: $grid-space-1;
+}
+
+::placeholder {
+  font-family: $primary-font;
+}

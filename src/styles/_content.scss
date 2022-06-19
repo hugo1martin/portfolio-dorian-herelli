@@ -1,0 +1,12 @@
+.content {
+  margin: 200px auto;
+  width: fit-content;
+
+  span {
+    margin: $grid-space-4 0 $grid-space-7 0;
+  }
+
+  a {
+    margin: 0 auto;
+  }
+}

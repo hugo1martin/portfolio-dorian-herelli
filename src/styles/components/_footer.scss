@@ -1,0 +1,11 @@
+.footer {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 100%;
+  text-align: right;
+
+  a {
+    margin: 0 $grid-space-2;
+  }
+}

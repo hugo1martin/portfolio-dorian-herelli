@@ -1,0 +1,15 @@
+.button {
+  padding: $grid-space-1 $grid-space-5;
+  width: fit-content;
+  border-radius: $border-radius;
+  font-weight: 600;
+  border: none;
+
+  &.primary {
+    background-color: $primary-color;
+  }
+
+  &.big {
+    padding: $grid-space-3 $grid-space-8;
+  }
+}
