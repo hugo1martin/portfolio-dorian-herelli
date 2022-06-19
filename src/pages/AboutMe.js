@@ -18,6 +18,7 @@ const AboutMe = () => {
         <a
           href="./cv-dorian-herelli.pdf"
           target="_blank"
+          rel="noreferrer"
           className="button primary big"
         >
           Téléchargez mon CV

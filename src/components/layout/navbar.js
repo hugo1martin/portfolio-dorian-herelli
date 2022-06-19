@@ -7,11 +7,12 @@ const Navbar = () => {
       <img src="iku-studio-logo.png" alt="iku-studio-logo"></img>
       <div>
         <NavLink to="/" exact>
-          <span>Portfolio</span>
-        </NavLink>
-        <NavLink to="/aboutme" exact>
           <span>À propos de moi</span>
         </NavLink>
+        <NavLink to="/portfolio" exact>
+          <span>Portfolio</span>
+        </NavLink>
+        <a href="mailto:d.herelli.pro@gmail.com">Contact</a>
       </div>
     </div>
   );

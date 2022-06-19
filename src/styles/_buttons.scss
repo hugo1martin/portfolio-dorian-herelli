@@ -12,4 +12,11 @@
   &.big {
     padding: $grid-space-3 $grid-space-8;
   }
+
+  &.no-style {
+    padding: 0;
+    border-radius: $border-radius;
+    font-weight: 600;
+    border: none;
+  }
 }
