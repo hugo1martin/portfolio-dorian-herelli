@@ -5,7 +5,7 @@ import reportWebVitals from "./reportWebVitals";
 
 import Portfolio from "./pages/Portfolio";
 import AboutMe from "./pages/AboutMe";
-import Contact from "./pages/Contact";
+import NotFound from "./pages/NotFound";
 
 import "./styles/styles.scss";
 
@@ -16,8 +16,9 @@ root.render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Portfolio />} exact />
-        <Route path="/aboutme" element={<AboutMe />} />
+        <Route exact path="/" element={<Portfolio />} />
+        <Route exact path="/aboutme" element={<AboutMe />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>
