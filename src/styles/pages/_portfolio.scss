@@ -1,20 +1,22 @@
-.carouselList {
+.carousel-list {
   height: 570px;
   width: 980px;
   overflow: auto;
-
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 180px;
   row-gap: 90px;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
 
-.carouselItem {
+.carousel-item {
   height: 240px;
   width: 400px;
   flex-shrink: 0;
   overflow: hidden;
   border-radius: $border-radius;
+
   img {
     object-fit: cover;
     width: 400px;
@@ -22,12 +24,6 @@
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-.carouselList::-webkit-scrollbar {
+.carousel-list::-webkit-scrollbar {
   display: none;
-}
-
-/* Hide scrollbar for IE, Edge and Firefox */
-.carouselList {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
 }

@@ -12,7 +12,7 @@ const Portfolio = () => {
     return (
       <button
         key={item.id}
-        className='carouselItem button no-style'
+        className='carousel-item button no-style'
         onClick={() => {
           setOpenModal(true)
           setItem(item)
@@ -26,7 +26,7 @@ const Portfolio = () => {
   return (
     <Layout>
       <div className='content'>
-        <div className='carouselList'>{items}</div>
+        <div className='carousel-list'>{items}</div>
       </div>
       {openModal && <Modal item={item} closeModal={setOpenModal} />}
     </Layout>
