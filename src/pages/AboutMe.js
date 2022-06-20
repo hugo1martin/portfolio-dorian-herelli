@@ -1,14 +1,14 @@
-import React from "react";
+import React from 'react'
 
-import Layout from "../components/layout/layout";
+import Layout from '../components/layout/layout'
 
 const AboutMe = () => {
   return (
     <Layout>
-      <div className="content flex column">
-        <div className="flex">
+      <div className='content flex column'>
+        <div className='flex'>
           <h1>DORIAN</h1>
-          <h1 className="primary">&nbsp;HERELLI</h1>
+          <h1 className='primary'>&nbsp;HERELLI</h1>
         </div>
         <h2>Web Designer</h2>
         <span>
@@ -16,16 +16,16 @@ const AboutMe = () => {
           l’illustration, le graphisme et l’intégration web.
         </span>
         <a
-          href="./cv-dorian-herelli.pdf"
-          target="_blank"
-          rel="noreferrer"
-          className="button primary big"
+          href='./cv-dorian-herelli.pdf'
+          target='_blank'
+          rel='noreferrer'
+          className='button primary big'
         >
           Téléchargez mon CV
         </a>
       </div>
     </Layout>
-  );
-};
+  )
+}
 
-export default AboutMe;
+export default AboutMe

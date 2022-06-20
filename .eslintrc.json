@@ -15,7 +15,7 @@
   "rules": {},
   "settings": {
     "react": {
-      "version": "detect" // tell eslint-plugin-react to automatically detect the version of React to use
+      "version": "detect"
     }
   }
 }
