@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "url": "./mockup-carousel/alarme_penet.png",
+    "url": "./mockup-carousel/alarme_penet.jpg",
     "title": "TITRE",
     "logo": "alarme_penet_logo.png",
     "see_more": "https://www.alarmepenet.fr/",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "url": "./mockup-carousel/clim_convert.png",
+    "url": "./mockup-carousel/clim_convert.jpg",
     "title": "TITRE",
     "logo": "climconvert_logo.jpg",
     "see_more": "https://www.climconvert.com/",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "url": "./mockup-carousel/fanfic.png",
+    "url": "./mockup-carousel/fanfic.jpg",
     "title": "TITRE",
     "logo": "fanfic_logo.png",
     "see_more": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "url": "./mockup-carousel/rhumantik.png",
+    "url": "./mockup-carousel/rhumantik.jpg",
     "title": "TITRE",
     "logo": "rhumantik_logo.png",
     "see_more": "",
@@ -33,7 +33,63 @@
   },
   {
     "id": 5,
-    "url": "./mockup-carousel/vv.png",
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 6,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 7,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 8,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 9,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 10,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 11,
+    "url": "./mockup-carousel/vv.jpg",
+    "title": "TITRE",
+    "logo": "vending_venture_logo.png",
+    "see_more": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque commodo urna, vel euismod arcu dignissim non. Donec tempus dui eget hendrerit consectetur. Nunc vulputate, nunc eu consectetur fermentum, urna mauris laoreet libero, sed posuere metus lorem sit amet purus. Nullam sollicitudin, dolor eget pellentesque mattis, enim lectus dapibus ipsum, tempor elementum nibh erat eget sapien. Donec augue ex, vulputate at dolor ac, laoreet vehicula dolor. Etiam pellentesque magna vel mi placerat sollicitudin sit amet in felis. Maecenas sollicitudin nunc vitae arcu varius, vitae tincidunt lacus dictum. Sed ut nisi at metus euismod pellentesque in et ipsum. Curabitur in facilisis augue."
+  },
+  {
+    "id": 12,
+    "url": "./mockup-carousel/vv.jpg",
     "title": "TITRE",
     "logo": "vending_venture_logo.png",
     "see_more": "",
