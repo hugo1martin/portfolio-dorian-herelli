@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="navbar flex row space-between vCenter">
+    <div className="navbar flex row space-between v-center">
       <img src="iku-studio-logo.png" alt="iku-studio-logo"></img>
       <div>
         <NavLink to="/" exact>

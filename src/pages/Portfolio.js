@@ -11,11 +11,11 @@ const Portfolio = () => {
   const items = data.map((item) => {
     return (
       <button
+        key={item.id}
         className="carouselItem button no-style"
         onClick={() => {
           setOpenModal(true);
           setItem(item);
-          console.log(item);
         }}
       >
         <img src={item.url} alt={item} />
