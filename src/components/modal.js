@@ -2,8 +2,8 @@ import React from 'react'
 
 function Modal ({ item, closeModal }) {
   return (
-    <div className='modalBackground'>
-      <div className='modalContent'>
+    <div className='modal-background'>
+      <div className='modal-content'>
         <div className='flex column left'>
           <div className='carousel-item'>
             <img src={item.url} alt={item} />
