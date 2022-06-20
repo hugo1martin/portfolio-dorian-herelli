@@ -5,7 +5,7 @@ function Modal({ item, closeModal }) {
     <div className="modalBackground">
       <div className="modalContent">
         <div className="flex column left">
-          <div className="carousel-item">
+          <div className="carouselItem">
             <img src={item.url} alt={item} />
           </div>
           <img className="logo" src={item.logo} alt={item} />

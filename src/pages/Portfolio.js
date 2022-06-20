@@ -11,7 +11,7 @@ const Portfolio = () => {
   const items = data.map((item) => {
     return (
       <button
-        className="carousel-item button no-style"
+        className="carouselItem button no-style"
         onClick={() => {
           setOpenModal(true);
           setItem(item);
@@ -26,7 +26,7 @@ const Portfolio = () => {
   return (
     <Layout>
       <div className="content">
-        <div className="carousel-list">{items}</div>
+        <div className="carouselList">{items}</div>
       </div>
       {openModal && <Modal item={item} closeModal={setOpenModal} />}
     </Layout>
