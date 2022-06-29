@@ -1,10 +1,11 @@
 repos:
-- repo: https://github.com/standard/standard
-  rev: v17.0.0
-  hooks:
-    - id: standard
-- repo: https://github.com/awebdeveloper/pre-commit-stylelint
-  rev: '0.0.2'
-  hooks:
-    - id: stylelint
-      additional_dependencies: ['stylelint@13.2.1', 'stylelint-config-standard@20.0.0']
+  - repo: https://github.com/standard/standard
+    rev: v17.0.0
+    hooks:
+      - id: standard
+  - repo: https://github.com/awebdeveloper/pre-commit-stylelint
+    rev: "0.0.2"
+    hooks:
+      - id: stylelint
+        additional_dependencies:
+          ["stylelint@13.2.1", "stylelint-config-standard@20.0.0"]
