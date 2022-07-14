@@ -34,3 +34,10 @@
     align-items: flex-end;
   }
 }
+
+@media screen and (max-width: 1020px) {
+  .carousel-list {
+    width: 400px;
+    grid-template-columns: 1fr;
+  }
+}

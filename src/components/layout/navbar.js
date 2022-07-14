@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className='navbar flex row space-between v-center'>
       <img src='iku-studio-logo.png' alt='iku-studio-logo' />
-      <div>
+      <div className='flex'>
         <NavLink to='/' exact>
           <span>À propos de moi</span>
         </NavLink>
