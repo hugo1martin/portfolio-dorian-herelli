@@ -5,7 +5,7 @@ import Layout from '../components/layout/layout'
 const AboutMe = () => {
   return (
     <Layout>
-      <div className='content flex column'>
+      <div className='content centered flex column'>
         <div className='flex'>
           <h1>DORIAN</h1>
           <h1 className='primary'>&nbsp;HERELLI</h1>

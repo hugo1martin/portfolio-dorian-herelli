@@ -47,7 +47,7 @@ const Portfolio = () => {
 
   return (
     <Layout>
-      <div className='content'>
+      <div className='content centered'>
         <div className='arrow up'>
           {startIndex > 0 && (
             <button

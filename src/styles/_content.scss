@@ -1,7 +1,13 @@
 .content {
   margin: 0 auto;
-  margin-top: 200px;
   width: fit-content;
+
+  &.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
   span {
     margin: $grid-space-4 0 $grid-space-7 0;
@@ -9,5 +15,17 @@
 
   a {
     margin: 0 auto;
+  }
+}
+
+@media screen and (max-height: 730px),
+  screen and (max-width: 612px) {
+  .content {
+    margin-top: $grid-space-5;
+
+    &.centered {
+      position: static;
+      transform: translate(0, 0);
+    }
   }
 }

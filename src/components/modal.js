@@ -5,12 +5,6 @@ function Modal ({ item, closeModal }) {
     <div className='modal-background'>
       <div className='modal-content'>
         <div className='flex column left'>
-          <div className='carousel-item'>
-            <img src={item.url} alt={item} />
-          </div>
-          <img className='logo' src={item.logo} alt={item} />
-        </div>
-        <div className='flex column right'>
           <div className='flex row space-between'>
             <h1>{item.title}</h1>
             <button
@@ -31,6 +25,12 @@ function Modal ({ item, closeModal }) {
               Voir plus
             </a>
           )}
+        </div>
+        <div className='flex column right'>
+          <div className='carousel-item'>
+            <img src={item.url} alt={item} />
+          </div>
+          <img className='logo' src={item.logo} alt={item} />
         </div>
       </div>
     </div>

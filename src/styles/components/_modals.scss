@@ -20,7 +20,9 @@
     padding: $grid-space-5;
     padding-bottom: $grid-space-7;
 
-    .left {
+    .right {
+      margin-left: $grid-space-6;
+
       .logo {
         max-width: 400px;
         max-height: 200px;
@@ -29,9 +31,7 @@
       }
     }
 
-    .right {
-      margin-left: $grid-space-6;
-
+    .left {
       h1 {
         margin-bottom: $grid-space-6;
       }
@@ -41,8 +41,38 @@
         margin-top: auto;
       }
 
+      p {
+        overflow: auto;
+      }
+
       button {
         margin-top: $grid-space-1;
+      }
+    }
+  }
+}
+
+@media screen and (max-height: 540px) {
+  .modal-background {
+    .modal-content {
+      height: 100%;
+    }
+  }
+}
+
+@media screen and (max-width: 970px) {
+  .modal-background {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    .modal-content {
+      width: 100%;
+
+      .right {
+        display: none;
       }
     }
   }

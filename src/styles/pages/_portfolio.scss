@@ -35,9 +35,31 @@
   }
 }
 
+@media screen and (max-height: 900px) {
+  .carousel-list {
+    height: 295px;
+    row-gap: 45px;
+  }
+
+  .carousel-item {
+    height: 120px;
+  }
+}
+
 @media screen and (max-width: 1020px) {
   .carousel-list {
     width: 400px;
     grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-height: 612px) {
+  .carousel-list {
+    height: 295px;
+    row-gap: 45px;
+  }
+
+  .carousel-item {
+    height: 120px;
   }
 }
